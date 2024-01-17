@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PlayTask</string>
+    <string name="hello_android">Hello_Android</string>
+    <string name="jnu">JNU</string>
+    <string name="hello">Hello</string>
+    <string name="change_text">Change Text</string>
+    <string name="todo">TODO</string>
+    <string name="Reward">Reward</string>
+    <string name="show_task">PlayTask</string>
+    <string name="desc">desc</string>
+    <string name="confirm">confirm</string>
+    <string name="none">0</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="add_task">添加任务</string>
+    <string name="task_name">任务名称</string>
+    <string name="task_scores">任务积分</string>
+    <string name="task_num">次数</string>
+    <string name="task_label">通过标签对任务进行分类</string>
+    <string name="complete">完成</string>
+    <string name="target_item_title">targetitem_title</string>
+    <string name="target_complete_num">target_complete_num</string>
+    <string name="target_sum">target_sum</string>
+    <string name="target_edit">分数</string>
+    <string name="tag_now">当前标签：全部</string>
+</resources>
